@@ -1,0 +1,22 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "BlackRose",
+  "license": "ISC",
+  "dependencies": {
+    "system-sleep": "^1.3.7",
+    "twit": "^2.2.11",
+    "twitter-autohook": "^1.7.2",
+    "user-stream": "0.0.8"
+  }
+}
